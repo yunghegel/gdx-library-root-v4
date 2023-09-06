@@ -1,3 +1,7 @@
+plugins {
+    id("com.gradle.enterprise") version("3.14.1")
+}
+
 rootProject.name = 'gdx-library-root'
 include 'gdx-bmesh'
 include 'gdx-yung-utils'
@@ -5,3 +9,19 @@ include 'gdx-scenegraph'
 include 'gdx-gizmos'
 include 'gdx-mesh-plus'
 include 'testing'
+
+
+
+
+
+gradleEnterprise {
+    if (System.getenv("CI") != null) {
+        buildScan {
+            publishAlways()
+            termsOfServiceUrl = "https://gradle.com/terms-of-service"
+            termsOfServiceAgree = "yes"
+        }
+    }
+}
+
+
