@@ -14,10 +14,8 @@
         <module name="gdx-library-root.gdx-yung-utils.test" />
         <module name="gdx-library-root.gdx-scenegraph.test" />
         <module name="gdx-library-root.gdx-mesh-plus.test" />
-        <module name="gdx-library-root.testing.main" />
         <module name="gdx-library-root.gdx-gizmos.main" />
         <module name="gdx-library-root.gdx-mesh-plus.main" />
-        <module name="gdx-library-root.testing.test" />
         <module name="gdx-library-root.gdx-bmesh.test" />
       </profile>
     </annotationProcessing>

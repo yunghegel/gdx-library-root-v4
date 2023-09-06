@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="gizmos" pattern="src[gdx-library-root.gdx-gizmos.main]:*..*" />
+</component>

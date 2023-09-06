@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="bmesh" pattern="src[gdx-library-root.gdx-bmesh*]:*..*&amp;&amp;!src:*..*||src[gdx-library-root.gdx-bmesh.main]:*..*" />
+</component>

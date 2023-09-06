@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="mesh-plus" pattern="src[gdx-library-root.gdx-mesh-plus.main]:*..*" />
+</component>

@@ -5,52 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b67164b-44b3-4082-ac5b-0bfb2f085a69" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/publish.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gdx-bmesh" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-bmesh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-bmesh/build/publications/mavenJava/module.json" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-bmesh/build/publications/mavenJava/module.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-bmesh/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-bmesh/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-bmesh/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-bmesh/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-bmesh/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/module-maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-bmesh/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/module-maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-bmesh/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/snapshot-maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-bmesh/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/snapshot-maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-bmesh/build/tmp/sourcesJar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-bmesh/build/tmp/sourcesJar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-gizmos" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-gizmos" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-gizmos/build/publications/mavenJava/module.json" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-gizmos/build/publications/mavenJava/module.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-gizmos/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-gizmos/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-gizmos/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-gizmos/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-gizmos/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/module-maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-gizmos/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/module-maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-gizmos/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/snapshot-maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-gizmos/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/snapshot-maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-gizmos/build/tmp/sourcesJar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-gizmos/build/tmp/sourcesJar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-mesh-plus" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-mesh-plus" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-mesh-plus/build/publications/mavenJava/module.json" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-mesh-plus/build/publications/mavenJava/module.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-mesh-plus/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-mesh-plus/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-mesh-plus/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-mesh-plus/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-mesh-plus/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/module-maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-mesh-plus/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/module-maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-mesh-plus/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/snapshot-maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-mesh-plus/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/snapshot-maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-mesh-plus/build/tmp/sourcesJar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-mesh-plus/build/tmp/sourcesJar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-scenegraph" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-scenegraph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-scenegraph/build/libs/gdx-scenegraph-0.3-SNAPSHOT-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-scenegraph/build/libs/gdx-scenegraph-0.3-SNAPSHOT-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-scenegraph/build/libs/gdx-scenegraph-0.3-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-scenegraph/build/libs/gdx-scenegraph-0.3-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-scenegraph/build/publications/mavenJava/module.json" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-scenegraph/build/publications/mavenJava/module.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-scenegraph/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-scenegraph/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-scenegraph/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-scenegraph/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-scenegraph/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/module-maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-scenegraph/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/module-maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-scenegraph/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/snapshot-maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-scenegraph/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/snapshot-maven-metadata.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gdx-yung-utils" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/console/ConsoleDirectory$Dir.class" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/console/ConsoleDirectory$Dir.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/console/ConsoleDirectory$Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/console/ConsoleDirectory$Member.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/console/Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/console/Log.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/console/LogFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/console/LogFormatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/format/Printer$Label.class" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/format/Printer$Label.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/system/OutputStreamInterceptor$GlobalLoggingFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/system/OutputStreamInterceptor$GlobalLoggingFormatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/ui/fields/LabeledFloatField.class" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/ui/fields/LabeledFloatField.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/ui/fields/LabeledIntField.class" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build/classes/java/main/org/yunghegel/gdx/utils/ui/fields/LabeledIntField.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build/libs/gdx-yung-utils-0.1-SNAPSHOT-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build/libs/gdx-yung-utils-0.1-SNAPSHOT-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build/libs/gdx-yung-utils-0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build/libs/gdx-yung-utils-0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build/publications/mavenJava/module.json" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build/publications/mavenJava/module.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/module-maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/module-maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/snapshot-maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build/tmp/publishMavenJavaPublicationToYunghegelSnapshotsRepository/snapshot-maven-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +23,9 @@
     <system id="GRADLE">
       <state>
         <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/gdx-bmesh">
           <activation />
         </task>
         <projects_view>
@@ -87,6 +47,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="NamedScopeManager">
+    <order>
+      <scope name="utils" />
+      <scope name="bmesh" />
+      <scope name="mesh-plus" />
+      <scope name="scenegraph" />
+      <scope name="gizmos" />
+    </order>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -95,32 +64,61 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="abbreviatePackageNames" value="true" />
-    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showModules" value="false" />
+    <option name="showMembers" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jamie/Desktop/dev/org.yunghegel/gdx/gdx-yunghegel-root&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/jamie/Desktop/dev/org.yunghegel/gdx/gdx-yunghegel-root/gdx-yung-utils",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gdx-yung-utils" />
+      <recent name="$PROJECT_DIR$/gdx-scenegraph" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.gdx-yunghegel-root:gdx-bmesh [compileJava]">
+    <configuration name="gdx-yunghegel-root [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="gdx-yunghegel-root [publish]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -133,6 +131,28 @@
         <option name="taskNames">
           <list>
             <option value="publish" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="gdx-yunghegel-root:gdx-bmesh [compileJava]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gdx-bmesh" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="compileJava" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -158,6 +178,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.gdx-yunghegel-root:gdx-bmesh [compileJava]" />
+        <item itemvalue="Gradle.gdx-yunghegel-root [build]" />
         <item itemvalue="Gradle.gdx-yunghegel-root [publish]" />
       </list>
     </recent_temporary>
@@ -171,7 +193,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693976683159</updated>
       <workItem from="1693976684184" duration="343000" />
-      <workItem from="1693977033322" duration="559000" />
+      <workItem from="1693977033322" duration="3385000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -189,7 +211,71 @@
       <option name="project" value="LOCAL" />
       <updated>1693977262614</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1693977620102</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693977620102</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1693977775129</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693977775129</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test">
+      <option name="closed" value="true" />
+      <created>1693977896705</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693977896705</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <option name="closed" value="true" />
+      <created>1693978608663</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693978608663</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test">
+      <option name="closed" value="true" />
+      <created>1693979052905</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1693979052905</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test">
+      <option name="closed" value="true" />
+      <created>1693980067412</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693980067412</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test">
+      <option name="closed" value="true" />
+      <created>1693980130575</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693980130575</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test">
+      <option name="closed" value="true" />
+      <created>1693980279777</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1693980279777</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,5 +295,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

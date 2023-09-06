@@ -4,6 +4,7 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -12,7 +13,6 @@
             <option value="$PROJECT_DIR$/gdx-mesh-plus" />
             <option value="$PROJECT_DIR$/gdx-scenegraph" />
             <option value="$PROJECT_DIR$/gdx-yung-utils" />
-            <option value="$PROJECT_DIR$/testing" />
           </set>
         </option>
       </GradleProjectSettings>
