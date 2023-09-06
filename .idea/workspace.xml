@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0b67164b-44b3-4082-ac5b-0bfb2f085a69" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/gdx-bmesh" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-bmesh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-gizmos" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-gizmos" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-mesh-plus" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-mesh-plus" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-scenegraph" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-scenegraph" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gdx-yung-utils" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gdx-scenegraph" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="NamedScopeManager">
     <order>
@@ -67,6 +72,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
+    <option name="showModules" value="false" />
     <option name="showScratchesAndConsoles" value="false" />
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
@@ -82,7 +88,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.fileTypes",
@@ -96,7 +102,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.gdx-yunghegel-root:gdx-bmesh [compileJava]">
+  <component name="RunManager" selected="Gradle.gdx-yunghegel-root [clean]">
     <configuration name="gdx-yunghegel-root [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -109,6 +115,28 @@
         <option name="taskNames">
           <list>
             <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="gdx-yunghegel-root [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -178,6 +206,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.gdx-yunghegel-root [clean]" />
         <item itemvalue="Gradle.gdx-yunghegel-root:gdx-bmesh [compileJava]" />
         <item itemvalue="Gradle.gdx-yunghegel-root [build]" />
         <item itemvalue="Gradle.gdx-yunghegel-root [publish]" />
@@ -193,7 +222,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693976683159</updated>
       <workItem from="1693976684184" duration="343000" />
-      <workItem from="1693977033322" duration="3385000" />
+      <workItem from="1693977033322" duration="4232000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -275,7 +304,39 @@
       <option name="project" value="LOCAL" />
       <updated>1693980279777</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="test">
+      <option name="closed" value="true" />
+      <created>1693980437610</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693980437610</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test">
+      <option name="closed" value="true" />
+      <created>1693980670229</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693980670229</updated>
+    </task>
+    <task id="LOCAL-00013" summary="test">
+      <option name="closed" value="true" />
+      <created>1693980731242</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1693980731242</updated>
+    </task>
+    <task id="LOCAL-00014" summary="test">
+      <option name="closed" value="true" />
+      <created>1693981011603</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1693981011603</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
