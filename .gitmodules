@@ -1,0 +1,15 @@
+[submodule "gdx-bmesh"]
+	path = gdx-bmesh
+	url = https://github.com/yunghegel/gdx-bmesh.git
+[submodule "gdx-gizmos"]
+	path = gdx-gizmos
+	url = https://github.com/yunghegel/gdx-gizmos.git
+[submodule "gdx-scenegraph"]
+	path = gdx-scenegraph
+	url = https://github.com/yunghegel/gdx-scenegraph.git
+[submodule "gdx-yung-utils"]
+	path = gdx-yung-utils
+	url = https://github.com/yunghegel/gdx-yung-utils.git
+[submodule "gdx-mesh-plus"]
+	path = gdx-mesh-plus
+	url = https://github.com/yunghegel/gdx-mesh-plus.git
