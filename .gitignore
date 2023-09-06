@@ -23,7 +23,10 @@
 hs_err_pid*
 replay_pid*
 
-*/build/*
+/build/*
+**/build/
+**/build/*
+**/build/**/*
 
 #recursive-exclude .class
 */.class
