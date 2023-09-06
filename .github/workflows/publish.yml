@@ -4,4 +4,9 @@
     publish:
       runs-on: ubuntu-latest
       steps:
-        - run: ./gradlew publish
+        - name: Checkout project sources
+          uses: actions/checkout@v3
+        - name: Setup Gradle
+          uses: gradle/gradle-build-action@v2
+        - name: Run build with Gradle Wrapper
+          run: ./gradlew publish
