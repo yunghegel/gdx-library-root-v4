@@ -39,12 +39,7 @@ subprojects {
         maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
         maven { url "https://oss.sonatype.org/content/repositories/releases/" }
         maven{ url "https://raw.githubusercontent.com/kotlin-graphics/mary/master"}
-        maven {
-            name "yunghegelRepository"
-            url "https://repo.yunghegel.org/snapshots"
-        }
-
-
+        maven { url "https://repo.yunghegel.org/snapshots" }
     }
 
     dependencies {
@@ -58,12 +53,12 @@ subprojects {
         //GDX BACKEND/NATIVES
         implementation "com.badlogicgames.gdx:gdx-backend-lwjgl3:$gdxVersion"
         implementation "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-desktop"
+        api "com.badlogicgames.gdx:gdx-freetype-platform:$gdxVersion:natives-desktop"
 
 
         //GDX CORE LIBRARY
         api "com.badlogicgames.gdx:gdx:$gdxVersion"
         api "com.badlogicgames.gdx:gdx-freetype:$gdxVersion"
-        api "com.badlogicgames.gdx:gdx-freetype-platform:$gdxVersion:natives-desktop"
         api "com.badlogicgames.gdx:gdx-bullet:$gdxVersion"
 
 

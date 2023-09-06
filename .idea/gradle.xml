@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -11,6 +12,7 @@
             <option value="$PROJECT_DIR$/gdx-bmesh" />
             <option value="$PROJECT_DIR$/gdx-gizmos" />
             <option value="$PROJECT_DIR$/gdx-mesh-plus" />
+            <option value="$PROJECT_DIR$/gdx-picking" />
             <option value="$PROJECT_DIR$/gdx-scenegraph" />
             <option value="$PROJECT_DIR$/gdx-yung-utils" />
           </set>

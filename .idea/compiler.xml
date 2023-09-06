@@ -10,10 +10,12 @@
         <module name="gdx-library-root.gdx-gizmos.test" />
         <module name="gdx-library-root.gdx-yung-utils.main" />
         <module name="gdx-library-root.gdx-bmesh.main" />
+        <module name="gdx-library-root.gdx-picking.test" />
         <module name="gdx-library-root.gdx-scenegraph.main" />
         <module name="gdx-library-root.gdx-yung-utils.test" />
         <module name="gdx-library-root.gdx-scenegraph.test" />
         <module name="gdx-library-root.gdx-mesh-plus.test" />
+        <module name="gdx-library-root.gdx-picking.main" />
         <module name="gdx-library-root.gdx-gizmos.main" />
         <module name="gdx-library-root.gdx-mesh-plus.main" />
         <module name="gdx-library-root.gdx-bmesh.test" />
