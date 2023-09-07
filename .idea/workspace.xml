@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b67164b-44b3-4082-ac5b-0bfb2f085a69" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/haxe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gdx-picking/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gdx-picking/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gdx-picking/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gdx-picking/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gdx-picking/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gdx-picking/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gdx-picking/src/org/yunghegel/gdx/picking/Pickable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gdx-picking/src/org/yunghegel/gdx/picking/Picker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gdx-picking/src/org/yunghegel/gdx/picking/PickerColorEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gdx-picking/src/org/yunghegel/gdx/picking/PickerIDAttribute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gdx-picking/src/org/yunghegel/gdx/picking/PickerShader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-gizmos" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-gizmos" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-gizmos/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-gizmos/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-mesh-plus" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-mesh-plus" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-scenegraph" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-scenegraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-bmesh" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-bmesh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gdx-yung-utils" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
@@ -70,9 +47,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="NamedScopeManager">
     <order>
       <scope name="utils" />
@@ -93,7 +67,6 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
-    <option name="showModules" value="false" />
     <option name="showScratchesAndConsoles" value="false" />
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
@@ -102,33 +75,28 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/jamie/Desktop/dev/org.yunghegel/gdx/gdx-yunghegel-root/gdx-picking",
+    "last_opened_file_path": "/home/jamie/Desktop/dev/org.yunghegel/gdx/gdx-yunghegel-root/gdx-yung-utils",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "com.intellij.plugins.haxe.config.HaxeProjectSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/gdx-picking/src/org/yunghegel/gdx/picking" />
       <recent name="$PROJECT_DIR$/gdx-yung-utils" />
       <recent name="$PROJECT_DIR$/gdx-scenegraph" />
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="org.yunghegel.gdx.picking" />
-    </key>
   </component>
-  <component name="RunManager" selected="Gradle.gdx-yunghegel-root [clean]">
+  <component name="RunManager" selected="Gradle.gdx-yunghegel-root:gdx-bmesh [compileJava]">
     <configuration name="gdx-yunghegel-root [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -141,28 +109,6 @@
         <option name="taskNames">
           <list>
             <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="gdx-yunghegel-root [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -233,9 +179,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.gdx-yunghegel-root:gdx-bmesh [compileJava]" />
-        <item itemvalue="Gradle.gdx-yunghegel-root [publish]" />
-        <item itemvalue="Gradle.gdx-yunghegel-root [clean]" />
         <item itemvalue="Gradle.gdx-yunghegel-root [build]" />
+        <item itemvalue="Gradle.gdx-yunghegel-root [publish]" />
       </list>
     </recent_temporary>
   </component>
@@ -248,10 +193,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693976683159</updated>
       <workItem from="1693976684184" duration="343000" />
-      <workItem from="1693977033322" duration="5835000" />
-      <workItem from="1694066990221" duration="817000" />
-      <workItem from="1694067901387" duration="600000" />
-      <workItem from="1694091853076" duration="2509000" />
+      <workItem from="1693977033322" duration="3385000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -333,47 +275,7 @@
       <option name="project" value="LOCAL" />
       <updated>1693980279777</updated>
     </task>
-    <task id="LOCAL-00011" summary="test">
-      <option name="closed" value="true" />
-      <created>1693980437610</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1693980437610</updated>
-    </task>
-    <task id="LOCAL-00012" summary="test">
-      <option name="closed" value="true" />
-      <created>1693980670229</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1693980670229</updated>
-    </task>
-    <task id="LOCAL-00013" summary="test">
-      <option name="closed" value="true" />
-      <created>1693980731242</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1693980731242</updated>
-    </task>
-    <task id="LOCAL-00014" summary="test">
-      <option name="closed" value="true" />
-      <created>1693981011603</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1693981011603</updated>
-    </task>
-    <task id="LOCAL-00015" summary="test">
-      <option name="closed" value="true" />
-      <created>1693981312049</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1693981312049</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
