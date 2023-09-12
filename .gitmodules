@@ -14,5 +14,5 @@
 	path = gdx-mesh-plus
 	url = https://github.com/yunghegel/gdx-mesh-plus.git
 [submodule "gdx-picking"]
-    path = gdx-picking
-    url = https://github.com/yunghegel/gdx-picking.git
+	path = gdx-picking
+	url = https://github.com/yunghegel/gdx-picking.git

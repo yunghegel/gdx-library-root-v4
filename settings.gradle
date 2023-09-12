@@ -9,6 +9,7 @@ include 'gdx-scenegraph'
 include 'gdx-gizmos'
 include 'gdx-mesh-plus'
 include 'gdx-picking'
+include 'demos'
 
 
 
