@@ -16,3 +16,6 @@
 [submodule "gdx-picking"]
 	path = gdx-picking
 	url = https://github.com/yunghegel/gdx-picking.git
+[submodule "gdx-package-demos"]
+	path = demos
+	url = https://github.com/yunghegel/gdx-package-demos.git

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demos" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gdx-bmesh" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gdx-gizmos" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gdx-mesh-plus" vcs="Git" />
