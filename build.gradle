@@ -25,8 +25,10 @@ subprojects {
     apply plugin: 'kotlin'
 
 
-    sourceCompatibility = 17 //DESIRED JAVA VERSION;
-    targetCompatibility = 17 //DESIRED JAVA VERSION;
+    sourceCompatibility = 11 //DESIRED JAVA VERSION;
+    targetCompatibility = 11 //DESIRED JAVA VERSION;
+    project.ext.setProperty("sourceCompatibility", "11")
+    project.ext.setProperty("targetCompatibility", "11")
 
     
     repositories {
@@ -57,22 +59,22 @@ subprojects {
 
 
         //GDX CORE LIBRARY
-        api "com.badlogicgames.gdx:gdx:$gdxVersion"
-        api "com.badlogicgames.gdx:gdx-freetype:$gdxVersion"
-        api "com.badlogicgames.gdx:gdx-bullet:$gdxVersion"
-
+        implementation "com.badlogicgames.gdx:gdx:$gdxVersion"
+        implementation "com.badlogicgames.gdx:gdx-freetype:$gdxVersion"
+        implementation "com.badlogicgames.gdx:gdx-bullet:$gdxVersion"
 
         //GDX EXTENSIONS
-        api "com.kotcrab.vis:vis-ui:$visUiVersion"
-        api "com.github.mgsx-dev.gdx-gltf:gltf:$gdxGltfVersion"
-        implementation 'com.github.raeleus.stripe:stripe:1.4.5'
+        implementation "com.kotcrab.vis:vis-ui:$visUiVersion"
+        implementation "com.github.mgsx-dev.gdx-gltf:gltf:$gdxGltfVersion"
         implementation 'com.esotericsoftware.minlog:minlog:1.2'
         implementation "com.github.crykn.guacamole:core:$guacamoleVersion"
         implementation "com.github.crykn.guacamole:gdx:$guacamoleVersion"
         implementation "com.github.crykn.guacamole:gdx-desktop:$guacamoleVersion"
         implementation "com.github.tommyettinger:libgdx-utils:$utilsVersion"
-        implementation 'com.github.raeleus.stripe:freetype:1.4.5'
-        implementation "com.github.tommyettinger:libgdx-utils:$utilsVersion"
+
+
+        implementation "com.github.raeleus.stripe:stripe:$stripeVersion"
+        implementation "com.github.raeleus.stripe:freetype:$stripeVersion"
         //UTILITIY LIBRARIES
         implementation 'com.google.code.gson:gson:2.10.1'
 

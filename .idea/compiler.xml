@@ -23,6 +23,6 @@
         <module name="gdx-library-root.gdx-bmesh.test" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="17" />
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>

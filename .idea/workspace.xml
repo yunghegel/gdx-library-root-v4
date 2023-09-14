@@ -4,18 +4,97 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b67164b-44b3-4082-ac5b-0bfb2f085a69" name="Changes" comment="demos">
+    <list default="true" id="0b67164b-44b3-4082-ac5b-0bfb2f085a69" name="Changes" comment="add demos to submodule">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/gdx-bmesh/gdx-library-root.gdx-bmesh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/gdx-gizmos/gdx-library-root.gdx-gizmos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/gdx-mesh-plus/gdx-library-root.gdx-mesh-plus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/gdx-picking/gdx-library-root.gdx-picking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/gdx-scenegraph/gdx-library-root.gdx-scenegraph.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gdx-bmesh/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gdx-bmesh/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gdx-bmesh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gdx-scenegraph/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/dependencies-accessors/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/dependencies-accessors/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/checksums/sha256-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/checksums/sha256-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/checksums/sha512-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/checksums/sha512-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/dependencies-accessors/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/dependencies-accessors/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/haxe.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/haxe.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/demos/gdx-library-root.demos.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/demos/gdx-library-root.demos.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/gdx-bmesh/gdx-library-root.gdx-bmesh.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/gdx-bmesh/gdx-library-root.gdx-bmesh.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/gdx-gizmos/gdx-library-root.gdx-gizmos.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/gdx-gizmos/gdx-library-root.gdx-gizmos.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/gdx-mesh-plus/gdx-library-root.gdx-mesh-plus.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/gdx-mesh-plus/gdx-library-root.gdx-mesh-plus.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/gdx-picking/gdx-library-root.gdx-picking.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/gdx-picking/gdx-library-root.gdx-picking.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/gdx-scenegraph/gdx-library-root.gdx-scenegraph.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/gdx-scenegraph/gdx-library-root.gdx-scenegraph.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/gdx-yung-utils/gdx-library-root.gdx-yung-utils.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scopes/bmesh.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scopes/bmesh.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scopes/gizmos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scopes/gizmos.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scopes/mesh_plus.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scopes/mesh_plus.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scopes/scenegraph.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scopes/scenegraph.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scopes/utils.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scopes/utils.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_7_23,_11_19_AM_[Changes]/shelved.patch" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_7_23,_11_19_AM_[Changes]/shelved.patch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_7_23__11_19_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_7_23__11_19_AM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-bmesh" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-bmesh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-bmesh/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-bmesh/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gdx-gizmos" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-gizmos" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-gizmos/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-gizmos/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gdx-mesh-plus" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-mesh-plus" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-mesh-plus/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-mesh-plus/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-mesh-plus/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-mesh-plus/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-mesh-plus/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-mesh-plus/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-mesh-plus/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-mesh-plus/gradle.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gdx-picking" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-picking" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-picking/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-picking/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-scenegraph" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-scenegraph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdx-scenegraph/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-scenegraph/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gdx-yung-utils" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gdx-yung-utils/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/src/org/yunghegel/gdx/utils/ui/fields/LabeledFloatField.java" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/src/org/yunghegel/gdx/utils/ui/fields/LabeledFloatField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/src/org/yunghegel/gdx/utils/ui/widgets/ProfilerWidget.java" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/src/org/yunghegel/gdx/utils/ui/widgets/ProfilerWidget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/src/org/yunghegel/gdx/utils/ui/widgets/SceneTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/src/org/yunghegel/gdx/utils/ui/widgets/SceneTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdx-yung-utils/src/org/yunghegel/gdx/utils/ui/widgets/TabPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/gdx-yung-utils/src/org/yunghegel/gdx/utils/ui/widgets/TabPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +115,21 @@
         <task path="$PROJECT_DIR$/gdx-bmesh">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/gdx-picking">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/gdx-gizmos">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/gdx-yung-utils">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/gdx-scenegraph">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/gdx-mesh-plus">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -53,7 +147,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gdx-scenegraph" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="NamedScopeManager">
@@ -73,32 +167,32 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="compactDirectories" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
+    <option name="showModules" value="false" />
     <option name="showScratchesAndConsoles" value="false" />
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jamie/Desktop/dev/org.yunghegel/gdx/gdx-yunghegel-root/demos&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/jamie/Desktop/dev/org.yunghegel/gdx/gdx-yunghegel-root/gdx-picking",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/gdx-yung-utils" />
@@ -106,11 +200,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.gdx-yunghegel-root:gdx-bmesh [compileJava]">
-    <configuration name="gdx-yunghegel-root [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.gdx-yunghegel-root:gdx-gizmos [build]">
+    <configuration name="gdx-yunghegel-root:gdx-gizmos [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gdx-gizmos" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -129,10 +223,10 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="gdx-yunghegel-root [publish]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="gdx-yunghegel-root:gdx-mesh-plus [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gdx-mesh-plus" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -140,7 +234,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="publish" />
+            <option value="build" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -151,10 +245,10 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="gdx-yunghegel-root:gdx-bmesh [compileJava]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="gdx-yunghegel-root:gdx-picking [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/gdx-bmesh" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gdx-picking" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -162,7 +256,51 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="compileJava" />
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="gdx-yunghegel-root:gdx-picking [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gdx-picking" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="gdx-yunghegel-root:gdx-scenegraph [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gdx-scenegraph" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -179,18 +317,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="gdx-yunghegel-root" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.gdx-yunghegel-root:gdx-bmesh [compileJava]" />
-        <item itemvalue="Gradle.gdx-yunghegel-root [build]" />
-        <item itemvalue="Gradle.gdx-yunghegel-root [publish]" />
+        <item itemvalue="Gradle.gdx-yunghegel-root:gdx-gizmos [build]" />
+        <item itemvalue="Gradle.gdx-yunghegel-root:gdx-scenegraph [build]" />
+        <item itemvalue="Gradle.gdx-yunghegel-root:gdx-picking [buildDependents]" />
+        <item itemvalue="Gradle.gdx-yunghegel-root:gdx-picking [build]" />
+        <item itemvalue="Gradle.gdx-yunghegel-root:gdx-mesh-plus [build]" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +341,11 @@
       <workItem from="1694422790590" duration="483000" />
       <workItem from="1694461680182" duration="527000" />
       <workItem from="1694545649362" duration="964000" />
+      <workItem from="1694546674364" duration="554000" />
+      <workItem from="1694550593362" duration="1592000" />
+      <workItem from="1694557268839" duration="536000" />
+      <workItem from="1694648899560" duration="671000" />
+      <workItem from="1694649880938" duration="241000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -305,7 +443,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694546144733</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add demos to submodule">
+      <option name="closed" value="true" />
+      <created>1694547110081</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1694547110081</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +490,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="demos" />
-    <option name="LAST_COMMIT_MESSAGE" value="demos" />
+    <MESSAGE value="add demos to submodule" />
+    <option name="LAST_COMMIT_MESSAGE" value="add demos to submodule" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
